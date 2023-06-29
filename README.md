@@ -42,7 +42,7 @@ it, simply add the following line to your Podfile:
 pod 'kbeaconlib2','1.1.3'
 ```
 This library is also open source, please refer to this link.  
-[kbeaconlib](https://github.com/BlueCharmBeacons/kbeaconlib2)  
+[kbeaconlib](https://github.com/BlueCharmBeacons/BlueCharm_kbeaconlib2)  
 
 2. Add the Bluetooth permissions declare in your project plist file (Target->Info). As follows:  
 * Privacy - Bluetooth Always Usage Description
